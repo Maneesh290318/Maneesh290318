@@ -70,7 +70,7 @@ Earlier experience includes AWS-based data engineering, ETL pipelines, Redshift 
 
 ## 🔭 Currently Building
 
-- **AWS Smart Inbox Sentiment** — event-driven NLP pipeline using S3, SQS, Lambda, Amazon Comprehend, and serverless AWS services
+- **[AWS Smart Inbox Sentiment](https://github.com/Maneesh290318/aws-smart-inbox-sentiment)** — event-driven NLP pipeline using S3, Lambda, Amazon Comprehend, SQS, API Gateway, and CloudFront
 - Production-oriented **Agentic Analytics** workflows
 - Enterprise RAG and AI-agent patterns
 - Cloud-native AI/data engineering projects
