@@ -86,3 +86,8 @@ AI Engineering · Forward Deployed Engineering · Data Engineering · Business I
 I'm interested in building AI and data systems that solve practical business problems and make complex information easier to use.
 
 More portfolio projects and architecture documentation are being added as the repository evolves.
+
+
+## Featured Projects
+
+- **[Governed Retrieval Agent](https://github.com/Maneesh290318/databricks-governed-retrieval-agent)** — Databricks-native role-aware AI assistant with Unity Catalog governance, AI Search, tool calling, and a deployed Streamlit application
